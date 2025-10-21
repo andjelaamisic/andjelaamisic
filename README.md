@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Anđela 👋  
 
-<!--
-**andjelaamisic/andjelaamisic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst in training** with a background in hospitality management and a strong interest in data-driven decision making.  
+After several years of managing operations in the hospitality industry, I’m transitioning into data analytics — combining my business experience with analytical tools to uncover insights and improve performance.  
 
-Here are some ideas to get you started:
+### 💼 Featured Project
+- [SQL Projects Repository](https://github.com/andjelaamisic/sql-projects)  
+  Includes analyses such as sales performance, customer segmentation, and trend tracking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills & Tools
+**SQL** • **Excel** • Data Cleaning • Reporting • Problem Solving • Business Understanding
+
+### 🌍 About Me
+Based in Serbia 🇷🇸 • Passionate about continuous learning, hiking, and traveling.  
+I’m focused on building a career in data analytics and contributing to data-informed business strategies.
